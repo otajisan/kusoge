@@ -1,0 +1,34 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAACACAAAAAAAAACIAAAAgIgIAIAIAAAAAAAAAIgAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAiAAAgIgIAIAIAAAAAAAAiAAAAAAAAIAIAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "smile"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAKqZ2R0A0AAAmQmgqgDQAADZ06ChANAAANktoqqqqgAA+d8tqqqhAADZTS2qqqoAAPkvoqqqoQAA2dOtoaqqAACamaCqANAAAAqQmQ0A0AAAAAAADQDQAAAAAAANANAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ohimesama"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "empty"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAA/wDwDwDw//DuD+/+AO/u/+7+7v7w7u7v7v7u/u/u7u/u/u7+8O7u7+7+7v4A7+7v7v7u/gDv7u/u/u7+AO/u7+7+7v4A7+7v7v7u/gDv7u/u/u7+AO/u7+7+7v4A8P7w7v/u/gAAD/DuD+/+AAAAAP8A7/4AAAAAAADwDw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDIwMDAwMDAwZjAwMDAwMDAwMDAwMGYwZmUwMDAwMDAwMDAwMDBlZmVlZmZmZmZmMDAwMGYwZWVlZWVlZWVlZTBmMDBmMGVlZWVlZWVlZWVmZTAwZjBlZWVlZWVlZWVlMGYwMDAwZmZmZmZmZmZmZjAwMDBmMGVmZWVlZWVlZWVmZjAwZWZlZWVlZWVlZWVlZWUwZmVmZWVlZWVlZWVlZWVlMGZmMGVlZWVlZWVlZWVmZjAwMDBmZmZmZmZmZmZmMGYwMGYwZWVlZWVlZWVlZWZlMGZlZmVlZWVlZWVlZWVlZWZlZWZlZWVlZWVlZWVlZWVmZWYwZmZmZmZmZmZmZmZmMGYwMDAwMGYwMDAwMDAwMDAwMDBmMGZiMDAwMDAwMDAwMDAwYmZiYmZmZmZmZjAwMDBmMGJiYmJiYmJiYmIwZjAwZjBiYmJiYmJiYmJiZmIwMGYwYmJiYmJiYmJiYjBmMDAwMGZmZmZmZmZmZmYwMDAwZjBiZmJiYmJiYmJiZmYwMGJmYmJiYmJiYmJiYmJiMGZiZmJiYmJiYmJiYmJiYjBmZjBiYmJiYmJiYmJiZmYwMDAwZmZmZmZmZmZmZjBmMDBmMGJiYmJiYmJiYmJmYjBmYmZiYmJiYmJiYmJiYmJmYmJmYmJiYmJiYmJiYmJiZmJmMGZmZmZmZmZmZmZmZjBm",
+        "displayName": "enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
